@@ -1,0 +1,27 @@
+{
+  "name": "buffer-polygon-multi-shape",
+  "version": "1.0.0",
+  "description": "Support buffer for multi shape",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/react-package-khm/buffer-polygon-multi-shape.git"
+  },
+  "keywords": [
+    "Shape",
+    "Buffer",
+    "Buffer-Shape",
+    "React-Buffer-Shape",
+    "Package-Buffer-Shape",
+    "Polygon"
+  ],
+  "author": "Nguyen Van That <leovthat215@gmail.com> (Kang Hyo Mun)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/react-package-khm/buffer-polygon-multi-shape/issues"
+  },
+  "homepage": "https://github.com/react-package-khm/buffer-polygon-multi-shape#readme"
+}
